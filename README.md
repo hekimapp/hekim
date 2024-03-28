@@ -109,3 +109,5 @@ Tumblr Site: https://hekimapp.tumblr.com/
 Pearltrees: http://www.pearltrees.com/hekimapp
 
 Pearltrees Yazı: http://www.pearltrees.com/hekimapp/item585028015
+
+Quora: https://www.quora.com/profile/Hekim-App
