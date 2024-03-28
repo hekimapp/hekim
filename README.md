@@ -12,7 +12,10 @@ Sağlık Sektöründe Dijital Dönüşüm
 Hekim App, sağlık sektöründeki dijital dönüşümü hızlandıran kritik bir araç olarak öne çıkıyor. Platform, doktor ve hekimlerin hasta bakımını daha etkili bir şekilde yönetmelerini, tıp fakültesi öğrencilerinin ise daha donanımlı ve bilgili sağlık profesyonelleri olarak yetişmelerini sağlıyor. Bu sayede, Hekim App, sağlık hizmetlerinin kalitesinin artırılmasına ve sağlık eğitiminin modernleştirilmesine katkıda bulunuyor.
 
 Sonuç
-Hekim App, doktorlar, hekimler ve tıp fakültesi öğrencileri için tasarlanmış devrimsel bir platform olarak, sağlık sektöründe önemli bir yer ediniyor. Sağlık profesyonellerine ve öğrencilere sunduğu yenilikçi çözümler ile Hekim App, sağlık hizmetlerinin ve eğitiminin geleceğini şekillendiriyor. Bu platform, sağlık sektöründeki dijital dönüşümü destekleyerek, tüm sağlık profesyonellerinin ve öğrencilerinin ihtiyaçlarına cevap veriyor.
+Hekim App, [doktorlar
+](https://hekim.app/), [hekimler
+](https://hekim.app/) ve [tıp fakültesi
+](https://hekim.app/) öğrencileri için tasarlanmış devrimsel bir platform olarak, sağlık sektöründe önemli bir yer ediniyor. Sağlık profesyonellerine ve öğrencilere sunduğu yenilikçi çözümler ile Hekim App, sağlık hizmetlerinin ve eğitiminin geleceğini şekillendiriyor. Bu platform, sağlık sektöründeki dijital dönüşümü destekleyerek, tüm sağlık profesyonellerinin ve öğrencilerinin ihtiyaçlarına cevap veriyor.
 
 
 
