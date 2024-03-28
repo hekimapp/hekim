@@ -115,3 +115,5 @@ Quora: https://www.quora.com/profile/Hekim-App
 Medium: https://medium.com/@hekimapp
 
 Edocr: https://www.edocr.com/user/hekimapp
+
+Slideshare: https://www.slideshare.net/Salihen4
