@@ -99,3 +99,7 @@ Pinterest: https://tr.pinterest.com/hekimapp/
 Scoop it: https://www.scoop.it/u/hekim-app
 
 Scoop it Topic: https://www.scoop.it/topic/hekim-app
+
+Tumblr: https://www.tumblr.com/hekimapp
+
+Tumblr Site: https://hekimapp.tumblr.com/
