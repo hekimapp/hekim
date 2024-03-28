@@ -111,3 +111,5 @@ Pearltrees: http://www.pearltrees.com/hekimapp
 Pearltrees Yazı: http://www.pearltrees.com/hekimapp/item585028015
 
 Quora: https://www.quora.com/profile/Hekim-App
+
+Medium: https://medium.com/@hekimapp
