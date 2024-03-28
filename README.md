@@ -1,4 +1,4 @@
-ağlık Alanında Dijital Dönüşüm: Hekim App ile Tanışın
+Sağlık Alanında Dijital Dönüşüm: Hekim App ile Tanışın
 
 Teknolojinin hızla geliştiği çağımızda, sağlık sektörü de dijital dönüşümden nasibini alarak, hizmet sunum şekillerini yeniden tanımlıyor. Bu dönüşümün öncülerinden biri olan Hekim App, doktorlar, hekimler ve tıp fakültesi öğrencilerine yönelik özel olarak geliştirilmiş bir platform olarak öne çıkıyor. Bu SEO uyumlu makale, Hekim App'in sağlık sektöründe nasıl bir devrim yarattığını, sağlık profesyonellerine sunduğu imkanları ve tıp eğitimine olan katkılarını detaylı bir şekilde inceliyor.
 
