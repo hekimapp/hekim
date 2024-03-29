@@ -118,4 +118,8 @@ Edocr: https://www.edocr.com/user/hekimapp
 
 Slideshare: https://www.slideshare.net/Salihen4
 
+Instagram: https://www.instagram.com/hekim.app/
+
+Threads: https://www.threads.net/@hekim.app
+
 CMC Community: https://coinmarketcap.com/community/profile/HekimApp/
