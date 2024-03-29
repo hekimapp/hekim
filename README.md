@@ -117,3 +117,5 @@ Medium: https://medium.com/@hekimapp
 Edocr: https://www.edocr.com/user/hekimapp
 
 Slideshare: https://www.slideshare.net/Salihen4
+
+CMC Community: https://coinmarketcap.com/community/profile/HekimApp/
