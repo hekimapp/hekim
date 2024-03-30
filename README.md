@@ -123,3 +123,7 @@ Instagram: https://www.instagram.com/hekim.app/
 Threads: https://www.threads.net/@hekim.app
 
 CMC Community: https://coinmarketcap.com/community/profile/HekimApp/
+
+AboutMe: https://about.me/HekimApp
+
+Youtube: https://www.youtube.com/@HekimApp
