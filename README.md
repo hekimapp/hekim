@@ -127,3 +127,5 @@ CMC Community: https://coinmarketcap.com/community/profile/HekimApp/
 AboutMe: https://about.me/HekimApp
 
 Youtube: https://www.youtube.com/@HekimApp
+
+Academia: https://independent.academia.edu/HekimApp
