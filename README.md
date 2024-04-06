@@ -129,3 +129,23 @@ AboutMe: https://about.me/HekimApp
 Youtube: https://www.youtube.com/@HekimApp
 
 Academia: https://independent.academia.edu/HekimApp
+
+Startupmarket: https://startupmarket.co/hekim-app
+
+Truthsocial: https://truthsocial.com/@hekim
+
+Wixstudio: https://hekimapp.wixstudio.io/hekim
+
+Dorik: https://hekim.dorik.io/
+
+Carrd: https://hekim.carrd.co/
+
+Wellfound: https://wellfound.com/company/hekim-app
+
+Producthunt: https://www.producthunt.com/posts/hekim-app
+
+Lichess: https://lichess.org/@/hekimapp
+
+Lichess Team: https://lichess.org/team/hekim-app
+
+ 
