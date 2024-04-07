@@ -148,4 +148,12 @@ Lichess: https://lichess.org/@/hekimapp
 
 Lichess Team: https://lichess.org/team/hekim-app
 
- 
+ Substack: https://substack.com/@hekimapp
+
+Substack Site: https://hekimapp.substack.com
+
+Soundcloud: https://soundcloud.com/hekimapp
+
+Tiktok: https://www.tiktok.com/@hekimapp
+
+Reddit: https://www.reddit.com/user/hekimapp/
