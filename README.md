@@ -82,7 +82,7 @@ Hekim App, [doktorlar](https://hekim.app/), [hekimler](https://hekim.app/) ve [t
 
 
 
-Sosyal Medya
+Sosyal Medya https://telegra.ph/Hekim-App-Sa%C4%9Fl%C4%B1k-Sekt%C3%B6r%C3%BCn%C3%BC-Dijitalle%C5%9Ftiren-Devrimci-Uygulama-04-07
 
 https://telegra.ph/Hekim-Sosyal-Medya-03-28
 
